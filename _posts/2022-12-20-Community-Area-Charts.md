@@ -13,6 +13,6 @@ read_time: false
 
 ## Demographic and Economic Data by Chicago Community Area
 
-Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
+Below, we show core dempgraphic data for the City of Chicago by neighborhood using the Altair package. The dempgraphic data was sourced from the 2021 ACS 5-year estimate tables DP05 and DP03. The geometric data was sourced from the City of Chicago's open data portal.
 
 <div id="altair-chart-1"></div>
