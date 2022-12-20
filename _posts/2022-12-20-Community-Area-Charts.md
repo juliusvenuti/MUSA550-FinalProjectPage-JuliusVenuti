@@ -1,6 +1,6 @@
 ---
 title: "Chicago Community Areas"
-date: 2019-04-17
+date: 2022-12-20
 published: true
 tags: [dataviz, matplotlib]
 excerpt: "This is an example blog post that embeds a matplotlib image."
@@ -9,11 +9,7 @@ toc_sticky: true
 read_time: false
 ---
 
-# Section 1
-
-This is an example post. The posts are written in markdown.
-
-## Abandoned Cars
+## Demographic and Economic Data by Chicago Community Area
 
 Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
 
