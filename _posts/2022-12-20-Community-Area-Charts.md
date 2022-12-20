@@ -43,4 +43,4 @@ The maps below are color scaled by the white, black, latino/a/x, and asian popul
 <div id="altair-chart-6"></div>
 <div id="altair-chart-7"></div>
 
-All of these maps in combination reflect the INVEST South/West Initiative primary focus on racial and economic equity through targeted neighborhood investment.
+All of these maps in combination reflect the INVEST South/West Initiative's primary focus on racial and economic equity through targeted neighborhood investment.
