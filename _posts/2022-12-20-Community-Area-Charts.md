@@ -3,7 +3,7 @@ title: "Chicago Community Areas"
 date: 2022-12-20
 published: true
 tags: [dataviz, matplotlib]
-excerpt: "This is an example blog post that embeds a matplotlib image."
+excerpt: "A Visual Overview of Chicago by Community Area."
 altair-loader:
   altair-chart-1: "charts/chi_alt_map_pop.json"
   altair-chart-2: "charts/chi_alt_map_workage.json"
