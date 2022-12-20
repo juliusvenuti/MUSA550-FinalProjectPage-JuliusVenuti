@@ -27,17 +27,20 @@ The demographic data was sourced from the 2021 ACS 5-year estimate tables DP05 a
 
 ## Working Age Population & Unemployment Rates
 
-The maps below are color scaled by working age population (ages 20-44) and unemployment rates. indicates that the North- and West-sides of the city are the most populated areas.
+The maps below are color scaled by working age population (ages 20-44) and unemployment rates.
 
 <div id="altair-chart-2"></div>
 <div id="altair-chart-3"></div>
 
+These maps indicate that the North-side of the city has the greatest perecentage of prime age workforce population, and that the South- and West-sides have the highest unemployment rates city-wide.
+
 ## Racial/Ethnic Distribution of Chicago's Total Population
 
-The maps below are color scaled by the white, black, latino/a/x, and asian populations of Chicago. indicates that the North- and West-sides of the city are the most populated areas.
+The maps below are color scaled by the white, black, latino/a/x, and asian populations of Chicago. These maps distinctly represent the distribution of population by race in Chicago.
 
 <div id="altair-chart-4"></div>
 <div id="altair-chart-5"></div>
 <div id="altair-chart-6"></div>
 <div id="altair-chart-7"></div>
 
+All of these maps in combination reflect the INVEST South/West Initiative primary focus on racial and economic equity through targeted neighborhood investment.
