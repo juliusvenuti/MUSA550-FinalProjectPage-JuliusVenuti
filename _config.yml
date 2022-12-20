@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Julius Venuti"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Master of City Planning | Public-Private Development | University of Pennsylvania 2023"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
