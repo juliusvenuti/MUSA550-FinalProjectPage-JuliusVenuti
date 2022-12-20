@@ -4,6 +4,8 @@ date: 2022-12-20
 published: true
 tags: [dataviz, matplotlib]
 excerpt: "This is an example blog post that embeds a matplotlib image."
+altair-loader:
+  altair-chart-1: "charts/chi_alt_map_demo.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -13,4 +15,4 @@ read_time: false
 
 Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+<div id="altair-chart-1"></div>
