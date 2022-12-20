@@ -6,9 +6,12 @@ tags: [dataviz, matplotlib]
 excerpt: "This is an example blog post that embeds a matplotlib image."
 altair-loader:
   altair-chart-1: "charts/chi_alt_map_pop.json"
-  altair-chart-2: "charts/workage_unemp.json"
-  altair-chart-3: "charts/combined_white_black.json"
-  altair-chart-4: "charts/combined_lat_asian.json"
+  altair-chart-2: "charts/chi_alt_map_workage.json"
+  altair-chart-3: "charts/chi_alt_map_unemployment.json"
+  altair-chart-4: "charts/chi_alt_map_white.json"
+  altair-chart-5: "charts/chi_alt_map_black.json"
+  altair-chart-6: "charts/chi_alt_map_lathisp.json"
+  altair-chart-7: "charts/chi_alt_map_asian.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -27,9 +30,14 @@ The demographic data was sourced from the 2021 ACS 5-year estimate tables DP05 a
 The maps below are color scaled by working age population (ages 20-44) and unemployment rates. indicates that the North- and West-sides of the city are the most populated areas.
 
 <div id="altair-chart-2"></div>
+<div id="altair-chart-3"></div>
 
 ## Racial/Ethnic Distribution of Chicago's Total Population
 
-<div id="altair-chart-3"></div>
+The maps below are color scaled by the white, black, latino/a/x, and asian populations of Chicago. indicates that the North- and West-sides of the city are the most populated areas.
+
 <div id="altair-chart-4"></div>
+<div id="altair-chart-5"></div>
+<div id="altair-chart-6"></div>
+<div id="altair-chart-7"></div>
 
