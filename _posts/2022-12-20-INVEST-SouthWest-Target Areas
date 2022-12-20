@@ -5,8 +5,8 @@ published: true
 tags: [dataviz, matplotlib]
 excerpt: "A Visual Overview of the INVEST South/West Initiative's Target Areas implicated by Tax-Increment Financing."
 altair-loader:
-  altair-chart-1: "charts/chi_alt_map_pop.json"
-  altair-chart-2: "charts/chi_alt_map_workage.json"
+  altair-chart-1: "charts/bigpic_1_chart.json"
+  altair-chart-2: "charts/bigpic_2_chart.json"
   altair-chart-3: "charts/chi_alt_map_unemployment.json"
   altair-chart-4: "charts/chi_alt_map_white.json"
   altair-chart-5: "charts/chi_alt_map_black.json"
@@ -17,13 +17,19 @@ toc_sticky: true
 read_time: false
 ---
 
-# Demographic and Economic Data by Chicago Community Area
+# Brief Overview
 
-Below, we show core dempgraphic data for the City of Chicago by neighborhood using the Altair package. The map is color scaled by total population and indicates that the North- and West-sides of the city are the most populated areas.
+In Fall 2019, Mayor Lori Lightfoot proposed the INVEST South/West Initiative (ISW). The plan targets approximately $2.2 Billion investment from a combination of public and private sources in 10 Chicago community areas/neighborhoods. By focusing on the revitalization of 12 commercial corridors, the INVEST South/West Initiative hopes to improve the local economies, state of housing, and quality of public realm in each of these areas. Approximately $220MM of funding for the ISW is projected to be generated via Tax-Increment Financing (TIF) Districts. The charts below simplifies all TIF funded projects in the city of Chicago nased on their location in priority community areas, as defined by the ISW. 
 
-The demographic data was sourced from the 2021 ACS 5-year estimate tables DP05 and DP03. The geometric data was sourced from the City of Chicago's open data portal.
+The data in this blog post was sourced entirely from the City of Chicago's open data portal.
 
 <div id="altair-chart-1"></div>
+
+The first chart shows that, on average, the approved amount of TIF funding per project is higher historically in non-priority community areas.
+
+<div id="altair-chart-2"></div>
+
+The second bar chart shows that projects in the priority community areas have historically recieved less TIF funding per project than projects outside of these areas.
 
 ## Working Age Population & Unemployment Rates
 
