@@ -8,7 +8,6 @@ altair-loader:
   altair-chart-1: "charts/bigpic_3_chart.json"
   altair-chart-2: "charts/bigpic_4_chart.json"
   altair-chart-3: "charts/Bars.json"
-  altair-chart-4: "charts/chi_alt_isw_projcount.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -26,15 +25,8 @@ There have been 146 projects completed with the assistance of TIF funding in the
 
 The second bar chart shows that projects in the priority community areas have historically recieved less TIF funding per project than projects outside of these areas.
 
-## Target Areas
+## A Note on the Predictive Model
 
-The map below is color scaled by ISW Priority Community Area. There are 15 primary community areas, 3 of which are formed by 2 or more Chicago neighborhoods. The Englewood primary community area is made up of the Englewood and West Englwood neighborhoods. The Bronze primary community area is made up for the Grand Boulevard, Oakland, and Kenwood neighborhoods. And, the Greater Roseland primary community area is made up the far south-side neighborhoods of Roseland, Pullman, and West Pullman.
-
-<div id="altair-chart-3"></div>
-
-The map below shows how TIF funded projects emanate from the Chicago Loop outward, with a considerable number of projects being located in the Loop and Near West Side.
-
-<div id="altair-chart-4"></div>
-
+Initially, this analysis was to include a predictive model that uses the scikit-learn package to determine the variables that influence the approved amount of TIF projects throughout the City of Chicago. That said, through several stages of trial and error this component of the project proved itself to be irrelevant and thus overall inconclusive. This is likely due to the historically political nature of TIF funding allocations and the program's use as a gap-financing source that is dependent largely on potential financing needs of prospective developments, rather than market, demographic, and environemntal factors. While the log distance charts created through this attempt and learning process are interesting, the importance of each of these varuiables as well as the deomgraphic and economic ones provided by the Census Bureau were difficult to discern. The charts are can be viewed below.
 
 
