@@ -1,5 +1,5 @@
 ---
-title: "Chicago Community Areas"
+title: "1. Chicago Community Areas"
 date: 2022-12-20
 published: true
 tags: [dataviz, altair, Chicago, INVEST South/West]
