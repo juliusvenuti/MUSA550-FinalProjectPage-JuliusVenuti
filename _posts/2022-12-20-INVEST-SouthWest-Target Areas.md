@@ -19,7 +19,7 @@ read_time: false
 
 In Fall 2019, Mayor Lori Lightfoot proposed the INVEST South/West Initiative (ISW). The plan targets approximately $2.2 Billion investment from a combination of public and private sources in 10 Chicago community areas/neighborhoods. By focusing on the revitalization of 12 commercial corridors, the INVEST South/West Initiative hopes to improve the local economies, state of housing, and quality of public realm in each of these areas. Approximately $220MM of funding for the ISW is projected to be generated via Tax-Increment Financing (TIF) Districts. The charts below simplifies all TIF funded projects in the city of Chicago nased on their location in priority community areas, as defined by the ISW. 
 
-The data in this blog post was sourced entirely from the City of Chicago's open data portal.
+The data in this blog post was sourced entirely from the City of Chicago's open data portal via API.
 
 <div id="altair-chart-1"></div>
 
