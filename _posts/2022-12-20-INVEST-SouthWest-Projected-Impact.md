@@ -2,7 +2,7 @@
 title: "Projecting the Performance of TIF under INVEST South/West (ISW)"
 date: 2022-12-20
 published: true
-tags: [dataviz, matplotlib]
+tags: [dataviz, altair, Chicago, TIF, INVEST South/West]
 excerpt: "Tax-Increment Financing's potential performance based on prior TIF funded projects in the INVEST South/West Initiative's Primary Community Areas."
 altair-loader:
   altair-chart-1: "charts/bigpic_3_chart.json"
@@ -26,11 +26,8 @@ The following bar charts breakdown, by priority community area, the projected an
 <div id="altair-chart-1"></div>
 <div id="altair-chart-4"></div>
 
-
 <div id="altair-chart-2"></div>
 <div id="altair-chart-5"></div>
-
-The second bar chart shows that projects in the priority community areas have historically recieved less TIF funding per project than projects outside of these areas.
 
 ## A Note on the Predictive Model
 
