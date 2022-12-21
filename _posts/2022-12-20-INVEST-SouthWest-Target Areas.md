@@ -8,10 +8,8 @@ altair-loader:
   altair-chart-1: "charts/bigpic_1_chart.json"
   altair-chart-2: "charts/bigpic_2_chart.json"
   altair-chart-3: "charts/chi_alt_isw_map.json"
-  altair-chart-4: "charts/chi_alt_isw_medapproved.json"
-  altair-chart-5: "charts/chi_alt_isw_projcount.json"
-  altair-chart-6: "charts/chi_alt_isw_pubsub.json"
-  altair-chart-7: "charts/chi_alt_isw_totalcount.json"
+  altair-chart-4: "charts/chi_alt_isw_pubsub.json"
+  altair-chart-5: "charts/chi_alt_isw_totalcount.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -31,23 +29,13 @@ The first chart shows that, on average, the approved amount of TIF funding per p
 
 The second bar chart shows that projects in the priority community areas have historically recieved less TIF funding per project than projects outside of these areas.
 
-## Working Age Population & Unemployment Rates
+## Target Areas
 
-The maps below are color scaled by working age population (ages 20-44) and unemployment rates.
+The map below is color scaled by ISW Priority Community Area. There are 15 primary community areas, 3 of which are formed by 2 or more Chicago neighborhoods. The Englewood primary community area is made up of the Englewood and West Englwood neighborhoods. The Bronze primary community area is made up for the Grand Boulevard, Oakland, and Kenwood neighborhoods. And, the Greater Roseland primary community area is made up the far south-side neighborhoods of Roseland, Pullman, and West Pullman.
 
-<div id="altair-chart-2"></div>
 <div id="altair-chart-3"></div>
-
-These maps indicate that the North-side of the city has the greatest perecentage of prime age workforce population, and that the South- and West-sides have the highest unemployment rates city-wide.
-
-## Racial/Ethnic Distribution of Chicago's Total Population
-
-The maps below are color scaled by the white, black, latino/a/x, and asian populations of Chicago. These maps distinctly represent the distribution of population by race in Chicago.
-
 <div id="altair-chart-4"></div>
-<div id="altair-chart-5"></div>
-<div id="altair-chart-6"></div>
-<div id="altair-chart-7"></div>
 
-All of these maps in combination reflect the INVEST South/West Initiative's primary focus on racial and economic equity through targeted neighborhood investment.
+<div id="altair-chart-5"></div>
+
 
