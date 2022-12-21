@@ -14,7 +14,7 @@ toc_sticky: true
 read_time: false
 ---
 
-# TIFs in the Primary Community Areas
+## TIFs in the Primary Community Areas
 
 There have been 146 projects completed with the assistance of TIF funding in the primary community areas targeted by the ISW Initiative. With approximately $220MM of TIF funding currently slotted to contribute towards the creation of development projects in these primary community areas, an additional 86 projects have the potential to be created based on TIF Funding Ratios, Aggregate Development Costs for TIF projects, and the number of TIF projects developed in the past. See the charts below for how the past and potential of TIF financing of projects in these community areas breaksdown. 
 
