@@ -8,8 +8,7 @@ altair-loader:
   altair-chart-1: "charts/bigpic_1_chart.json"
   altair-chart-2: "charts/bigpic_2_chart.json"
   altair-chart-3: "charts/chi_alt_isw_map.json"
-  altair-chart-4: "charts/chi_alt_isw_pubsub.json"
-  altair-chart-5: "charts/chi_alt_isw_totalcount.json"
+  altair-chart-4: "charts/chi_alt_isw_projcount.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -34,8 +33,9 @@ The second bar chart shows that projects in the priority community areas have hi
 The map below is color scaled by ISW Priority Community Area. There are 15 primary community areas, 3 of which are formed by 2 or more Chicago neighborhoods. The Englewood primary community area is made up of the Englewood and West Englwood neighborhoods. The Bronze primary community area is made up for the Grand Boulevard, Oakland, and Kenwood neighborhoods. And, the Greater Roseland primary community area is made up the far south-side neighborhoods of Roseland, Pullman, and West Pullman.
 
 <div id="altair-chart-3"></div>
-<div id="altair-chart-4"></div>
 
-<div id="altair-chart-5"></div>
+The map below shows how TIF funded projects emanate from the Chicago Loop outward, with a considerable number of projects being located in the Loop and Near West Side.
+
+<div id="altair-chart-4"></div>
 
 
