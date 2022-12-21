@@ -8,6 +8,8 @@ altair-loader:
   altair-chart-1: "charts/bigpic_3_chart.json"
   altair-chart-2: "charts/bigpic_4_chart.json"
   altair-chart-3: "charts/Bars.json"
+  altair-chart-4: "charts/bigpic_3_5_chart.json"
+  altair-chart-5: "charts/bigpic_4_5_chart.json"
 toc: true
 toc_sticky: true
 read_time: false
@@ -19,9 +21,14 @@ There have been 146 projects completed with the assistance of TIF funding in the
 
 <div id="altair-chart-3"></div>
 
+The following bar charts breakdown, by priority community area, the projected and historical projects created and aggregate total development costs associated with all TIF projects in each respective area. Based on a combination of historical development cost by area and the significantly less approved TIF amounts for projects under the ISW Initiative, this analysis identifies that investment trends across the community areas could prioritize TIF projects that in community areas that recieved less funding in the past. For example, South Chicago ranked 2nd across the priority community areas in aggregate project costs, but is projected to create 0 projects if the $220MM in approval TIF funding is spread equally across each of the priortiy commmunity areas.
 
 <div id="altair-chart-1"></div>
+<div id="altair-chart-4"></div>
+
+
 <div id="altair-chart-2"></div>
+<div id="altair-chart-5"></div>
 
 The second bar chart shows that projects in the priority community areas have historically recieved less TIF funding per project than projects outside of these areas.
 
