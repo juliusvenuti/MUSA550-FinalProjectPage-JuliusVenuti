@@ -1,5 +1,5 @@
 ---
-title: "Projecting the Performance of TIF under INVEST South/West (ISW)"
+title: "3. Projecting the Performance of TIF under INVEST South/West (ISW)"
 date: 2022-12-20
 published: true
 tags: [dataviz, altair, Chicago, TIF, INVEST South/West]
