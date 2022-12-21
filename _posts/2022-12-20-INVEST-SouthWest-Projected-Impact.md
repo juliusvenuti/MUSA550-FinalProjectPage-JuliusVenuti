@@ -27,6 +27,11 @@ The second bar chart shows that projects in the priority community areas have hi
 
 ## A Note on the Predictive Model
 
-Initially, this analysis was to include a predictive model that uses the scikit-learn package to determine the variables that influence the approved amount of TIF projects throughout the City of Chicago. That said, through several stages of trial and error this component of the project proved itself to be irrelevant and thus overall inconclusive. This is likely due to the historically political nature of TIF funding allocations and the program's use as a gap-financing source that is dependent largely on potential financing needs of prospective developments, rather than market, demographic, and environemntal factors. While the log distance charts created through this attempt and learning process are interesting, the importance of each of these varuiables as well as the deomgraphic and economic ones provided by the Census Bureau were difficult to discern. The charts are can be viewed below.
+Initially, this analysis was to include a predictive model that uses the scikit-learn package to determine the variables that influence the approved amount of TIF projects throughout the City of Chicago. That said, through several stages of trial and error this component of the project proved itself to be irrelevant and thus overall inconclusive. This is likely due to the historically political nature of TIF funding allocations and the program's use as a gap-financing source that is dependent largely on potential financing needs of prospective developments, rather than market, demographic, and environemntal factors. While the log distance charts created through this attempt and learning process are interesting, the importance of each of these varuiables as well as the deomgraphic and economic ones provided by the Census Bureau were difficult to discern. The charts can be viewed below.
+
+![distance-to-chicago-loop]({{ site.url }}{{ site.baseurl }}/assets/images/logDistLoopMap.png)
+![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+
 
 
