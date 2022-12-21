@@ -7,11 +7,11 @@ excerpt: "A Visual Overview of the INVEST South/West Initiative's Target Areas i
 altair-loader:
   altair-chart-1: "charts/bigpic_1_chart.json"
   altair-chart-2: "charts/bigpic_2_chart.json"
-  altair-chart-3: "charts/chi_alt_map_unemployment.json"
-  altair-chart-4: "charts/chi_alt_map_white.json"
-  altair-chart-5: "charts/chi_alt_map_black.json"
-  altair-chart-6: "charts/chi_alt_map_lathisp.json"
-  altair-chart-7: "charts/chi_alt_map_asian.json"
+  altair-chart-3: "charts/chi_alt_isw_map.json"
+  altair-chart-4: "charts/chi_alt_isw_medapproved.json"
+  altair-chart-5: "charts/chi_alt_isw_projcount.json"
+  altair-chart-6: "charts/chi_alt_isw_pubsub.json"
+  altair-chart-7: "charts/chi_alt_isw_totalcount.json"
 toc: true
 toc_sticky: true
 read_time: false
