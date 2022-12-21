@@ -1,5 +1,5 @@
 ---
-title: "2. INVEST South/West (ISW) Target Areas"
+title: "INVEST South/West (ISW) Target Areas"
 date: 2022-12-20
 published: true
 tags: [dataviz, altair, Chicago, TIF, INVEST South/West]
