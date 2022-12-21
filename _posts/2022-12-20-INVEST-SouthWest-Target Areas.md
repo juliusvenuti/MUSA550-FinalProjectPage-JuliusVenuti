@@ -2,7 +2,7 @@
 title: "INVEST South/West (ISW) Target Areas"
 date: 2022-12-20
 published: true
-tags: [dataviz, matplotlib]
+tags: [dataviz, altair, Chicago, TIF, INVEST South/West]
 excerpt: "A Visual Overview of the INVEST South/West Initiative's Target Areas implicated by Tax-Increment Financing."
 altair-loader:
   altair-chart-1: "charts/bigpic_1_chart.json"
