@@ -23,9 +23,11 @@ There have been 146 projects completed with the assistance of TIF funding in the
 
 The following bar charts breakdown, by priority community area, the projected and historical projects created and aggregate total development costs associated with all TIF projects in each respective area. Based on a combination of historical development cost by area and the significantly less approved TIF amounts for projects under the ISW Initiative, this analysis identifies that investment trends across the community areas could prioritize TIF projects that in community areas that recieved less funding in the past. For example, South Chicago ranked 2nd across the priority community areas in aggregate project costs, but is projected to create 0 projects if the $220MM in approval TIF funding is spread equally across each of the priortiy commmunity areas.
 
+**Potential Future & Historical Aggregate Project Costs by Community Area**
 <div id="altair-chart-1"></div>
 <div id="altair-chart-4"></div>
 
+**Potential TIF Projects Created & Past TIF Projects Created by Community Area**
 <div id="altair-chart-2"></div>
 <div id="altair-chart-5"></div>
 
