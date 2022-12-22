@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MUSA 550"
-email:
+title: "MUSA 550 Final Project: Assessing the Past and Potential of TIF subsidized developments in Chicago"
+email: juven@upenn.edu
 description: "Geospatial Data Science in Python"
 twitter_username:
 github_username:
