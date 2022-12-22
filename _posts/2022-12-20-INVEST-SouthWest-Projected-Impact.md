@@ -31,7 +31,9 @@ The following bar charts breakdown, by priority community area, the projected an
 <div id="altair-chart-2"></div>
 <div id="altair-chart-5"></div>
 
-## A Note on the Predictive Model
+Based on the results of this analysis, TIF assisted developments will be built with less than half of the $2.2B planned to be deployed in these priority community areas; the total is projected to be less than $860MM under this analysis. 
+
+## A Note on Predictive Modeling
 
 Initially, this analysis was to include a predictive model that uses the scikit-learn package to determine the variables that influence the approved amount of TIF projects throughout the City of Chicago. That said, through several stages of trial and error this component of the project proved itself to be irrelevant and thus overall inconclusive. This is likely due to the historically political nature of TIF funding allocations and the program's use as a gap-financing source that is dependent largely on potential financing needs of prospective developments, rather than market, demographic, and environemntal factors. While the log distance charts created through this attempt and learning process are interesting, the importance of each of these varuiables as well as the deomgraphic and economic ones provided by the Census Bureau were difficult to discern. The charts can be viewed below. Each hexagon on the chart represents a bin of past TIF funded developments throughout the city of Chicago.
 
